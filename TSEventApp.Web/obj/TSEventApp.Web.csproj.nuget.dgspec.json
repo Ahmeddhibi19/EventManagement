@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\TSEventApp.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\TSEventApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\TSEventApp.Infrastructure.csproj",
+        "projectName": "TSEventApp.Infrastructure",
+        "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\TSEventApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ahmeddhibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmeddhibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj",
+        "projectName": "TSEventApp.Core",
+        "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmeddhibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmeddhibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\TSEventApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\TSEventApp.Application.csproj",
+        "projectName": "TSEventApp.Application",
+        "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\TSEventApp.Application.csproj",
+        "packagesPath": "C:\\Users\\ahmeddhibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmeddhibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Repo\\TSEventApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\TSEventApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\TSEventApp.Web.csproj",
+        "projectName": "TSEventApp.Web",
+        "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\TSEventApp.Web.csproj",
+        "packagesPath": "C:\\Users\\ahmeddhibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmeddhibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\TSEventApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\TSEventApp.Infrastructure.csproj"
+              },
+              "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\TSEventApp.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Service\\TSEventApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

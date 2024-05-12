@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TSEventApp.Application
+build_property.ProjectDir = C:\Users\ahmeddhibi\source\repos\Event-App-Asp-Net-MVC\TSEventApp.Service\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

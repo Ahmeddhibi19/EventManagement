@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\controller\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\controller\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A981B-8329-4154-AE0E-8B0DE3FACEBD}|TSEventApp.Data\\TSEventApp.Infrastructure.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.data\\migrations\\20240511224459_updateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A981B-8329-4154-AE0E-8B0DE3FACEBD}|TSEventApp.Data\\TSEventApp.Infrastructure.csproj|solutionrelative:tseventapp.data\\migrations\\20240511224459_updateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\controller\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\controller\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\shared\\_eventdetailsindexpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\shared\\_eventdetailsindexpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\venue\\viewvenuedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\venue\\viewvenuedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\event\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\event\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\controller\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\controller\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\venue\\updatevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\venue\\updatevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\venue\\createvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\venue\\createvenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\event\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\event\\createevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|c:\\users\\ahmeddhibi\\source\\repos\\event-app-asp-net-mvc\\tseventapp.web\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5135EE2F-EAA0-4D1C-A3AA-043EBD84C0C6}|TSEventApp.Web\\TSEventApp.Web.csproj|solutionrelative:tseventapp.web\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240511224459_UpdateSchema.cs",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\Migrations\\20240511224459_UpdateSchema.cs",
+              "RelativeDocumentMoniker": "TSEventApp.Data\\Migrations\\20240511224459_UpdateSchema.cs",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Data\\Migrations\\20240511224459_UpdateSchema.cs",
+              "RelativeToolTip": "TSEventApp.Data\\Migrations\\20240511224459_UpdateSchema.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:12:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\VenueController.cs",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Controller\\VenueController.cs",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\VenueController.cs",
+              "RelativeToolTip": "TSEventApp.Web\\Controller\\VenueController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:51:56.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:49:48.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:49:03.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:47:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\EventController.cs",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Controller\\EventController.cs",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\EventController.cs",
+              "RelativeToolTip": "TSEventApp.Web\\Controller\\EventController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:47:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_EventDetailsIndexPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_EventDetailsIndexPage.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Shared\\_EventDetailsIndexPage.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Shared\\_EventDetailsIndexPage.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Shared\\_EventDetailsIndexPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:46:36.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:46:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:46:28.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\CommentController.cs",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Controller\\CommentController.cs",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Controller\\CommentController.cs",
+              "RelativeToolTip": "TSEventApp.Web\\Controller\\CommentController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:30:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\ViewDetails.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Event\\ViewDetails.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\ViewDetails.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Event\\ViewDetails.cshtml",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAowG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:28:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewVenueDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\ViewVenueDetails.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Venue\\ViewVenueDetails.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\ViewVenueDetails.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Venue\\ViewVenueDetails.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:28:27.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateVenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\UpdateVenue.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Venue\\UpdateVenue.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\UpdateVenue.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Venue\\UpdateVenue.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:20:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Event\\UpdateEvent.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Event\\UpdateEvent.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:19:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateVenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\CreateVenue.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Venue\\CreateVenue.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Venue\\CreateVenue.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Venue\\CreateVenue.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:11:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\CreateEvent.cshtml",
+              "RelativeDocumentMoniker": "TSEventApp.Web\\Views\\Event\\CreateEvent.cshtml",
+              "ToolTip": "C:\\Users\\ahmeddhibi\\source\\repos\\Event-App-Asp-Net-MVC\\TSEventApp.Web\\Views\\Event\\CreateEvent.cshtml",
+              "RelativeToolTip": "TSEventApp.Web\\Views\\Event\\CreateEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:06:40.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
